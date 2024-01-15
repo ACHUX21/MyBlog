@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
+gem 'json'
 gem "jekyll-theme-chirpy", "~> 6.4", ">= 6.4.2"
 
 group :test do
