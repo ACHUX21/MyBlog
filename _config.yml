@@ -82,7 +82,7 @@ social_preview_image: https://iloveweb.online/Hackor.webp # string, local or COR
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: 
+comments:
   active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
