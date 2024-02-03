@@ -1,7 +1,7 @@
 ---
 title: "Jwt - Unsecure File Signature"
 date: 2023-07-13 17:02:00 +0800
-categories: [RootMe]
+categories: [Writeups, RootMe]
 tags: [jwt, kid, signature, lfi]
 image:
   path: /banners/jwt.webp

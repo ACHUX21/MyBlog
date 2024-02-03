@@ -1,7 +1,7 @@
 ---
 title: "SQL/NoSQL ROOT-ME"
 date: 2024-01-20 00:22:00 +0800
-categories: [RootMe]
+categories: [Writeups, RootMe]
 tags: [web, ctf, sqli, lfi, python]
 image:
   path: /banners/Root-Me-SQL.png

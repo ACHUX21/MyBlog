@@ -1,7 +1,7 @@
 ---
 title: "Cat Pictures 2"
 date: 2023-07-07 18:02:00 +0800
-categories: [TryHackMe]
+categories: [Writeups, TryHackMe]
 tags: [cve, sudo, exifdata]
 image:
   path: /banners/catpictures2.png

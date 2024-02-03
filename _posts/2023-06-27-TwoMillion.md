@@ -1,7 +1,7 @@
 ---
 title: "Two Million"
 date: 2023-06-27 18:02:00 +0800
-categories: [HackTheBox]
+categories: [Writeups, HackTheBox]
 tags: [cve, api]
 image:
   path: /banners/twomillion.png

@@ -1,7 +1,7 @@
 ---
 title: "Pilgrimage"
 date: 2023-07-13 17:02:00 +0800
-categories: [HackTheBox]
+categories: [Writeups, HackTheBox]
 tags: [cve, cve-2022-4510, sqlite, imagemagick, pspy]
 image:
   path: /banners/pilgrimage.png
